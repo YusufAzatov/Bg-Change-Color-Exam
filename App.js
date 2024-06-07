@@ -32,10 +32,9 @@ const styles = StyleSheet.create({
   }, 
   button: {
     borderWidth: 5,
-    borderColor: "yellow, navy blue",
+    borderColor: "green",
     borderRadius: 10,
     padding: 10,
-    backgroundColor: "navy blue",
   },
   buttonText: {
     fontSize: 20,
